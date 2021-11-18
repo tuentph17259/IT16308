@@ -17,6 +17,10 @@ public class Nhap {
     public static void main(String[] args) {
         System.out.println("Tuệ ahihi");
         System.out.println("huhu");
+        System.out.println("ahihiaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        for (int i = 0; i < 10; i++) {
+            
+        }
     }
     
 }
