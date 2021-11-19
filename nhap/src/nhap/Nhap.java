@@ -22,6 +22,14 @@ public class Nhap {
             System.out.println("I love you");
         }
         System.out.println("ahihiii");
+        System.out.println("");
+        for (String arg : args) {
+            
+        }
+        do {
+            
+        } while (true);
+        
     }
     
 }
