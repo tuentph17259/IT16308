@@ -15,21 +15,6 @@ public class Nhap {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Tuệ ahihi");
-        System.out.println("huhu");
-        System.out.println("ahihiaaaaaaaaaaaaaaaaaaaaaaaaaa");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("I love you");
-        }
-        System.out.println("ahihiii");
         System.out.println("");
-        for (String arg : args) {
-            
-        }
-        do {
-            
-        } while (true);
-        
     }
-    
 }
