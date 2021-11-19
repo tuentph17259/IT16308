@@ -20,8 +20,13 @@ public class Nhap {
         System.out.println("ahihiaaaaaaaaaaaaaaaaaaaaaaaaaa");
         for (int i = 0; i < 10; i++) {
             System.out.println("I love you");
+<<<<<<< HEAD
         }ahihii
                 sout
+=======
+        }
+        System.out.println("ahihiii");
+>>>>>>> master
     }
     
 }
